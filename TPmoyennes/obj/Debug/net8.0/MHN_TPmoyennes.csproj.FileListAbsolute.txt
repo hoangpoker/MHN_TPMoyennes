@@ -1,0 +1,14 @@
+C:\Users\hoang\source\repos\TPmoyennes\TPmoyennes\bin\Debug\net8.0\MHN_TPmoyennes.exe
+C:\Users\hoang\source\repos\TPmoyennes\TPmoyennes\bin\Debug\net8.0\MHN_TPmoyennes.deps.json
+C:\Users\hoang\source\repos\TPmoyennes\TPmoyennes\bin\Debug\net8.0\MHN_TPmoyennes.runtimeconfig.json
+C:\Users\hoang\source\repos\TPmoyennes\TPmoyennes\bin\Debug\net8.0\MHN_TPmoyennes.dll
+C:\Users\hoang\source\repos\TPmoyennes\TPmoyennes\bin\Debug\net8.0\MHN_TPmoyennes.pdb
+C:\Users\hoang\source\repos\TPmoyennes\TPmoyennes\obj\Debug\net8.0\MHN_TPmoyennes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\source\repos\TPmoyennes\TPmoyennes\obj\Debug\net8.0\MHN_TPmoyennes.AssemblyInfoInputs.cache
+C:\Users\hoang\source\repos\TPmoyennes\TPmoyennes\obj\Debug\net8.0\MHN_TPmoyennes.AssemblyInfo.cs
+C:\Users\hoang\source\repos\TPmoyennes\TPmoyennes\obj\Debug\net8.0\MHN_TPmoyennes.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\TPmoyennes\TPmoyennes\obj\Debug\net8.0\MHN_TPmoyennes.dll
+C:\Users\hoang\source\repos\TPmoyennes\TPmoyennes\obj\Debug\net8.0\refint\MHN_TPmoyennes.dll
+C:\Users\hoang\source\repos\TPmoyennes\TPmoyennes\obj\Debug\net8.0\MHN_TPmoyennes.pdb
+C:\Users\hoang\source\repos\TPmoyennes\TPmoyennes\obj\Debug\net8.0\MHN_TPmoyennes.genruntimeconfig.cache
+C:\Users\hoang\source\repos\TPmoyennes\TPmoyennes\obj\Debug\net8.0\ref\MHN_TPmoyennes.dll
