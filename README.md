@@ -6,4 +6,4 @@ Some code rules :
   The average is rounded to 2 decimals after comma
   30 students and 10 subjects maximum for each class
 
-# The code was created during my training program with HN Institut (France)
+The code was created during my training program with HN Institut (France)
